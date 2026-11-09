@@ -66,3 +66,6 @@ This project demonstrates the use of Microsoft Excel to transform retail transac
 **DanX-Analyst**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+## Dashboard Preview
+
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
